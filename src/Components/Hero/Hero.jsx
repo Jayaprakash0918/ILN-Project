@@ -8,7 +8,7 @@ const Hero = () => {
     <div className='hero'>
         <div className='hero-left-container'>
           <div className='title'>
-          Build and Create Dreams
+          hi INNOVATERS
           </div>
           <div className='para'>
           Together with Innovate Learn Nexus
